@@ -38,8 +38,9 @@
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/emtorres1/kraft-heinz-servicenow-webapi"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emtorres1&repo=kraft-heinz-servicenow-webapi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="kraft-heinz-servicenow-webapi" /></a> <a href="https://github.com/emtorres1/kraft-heinz-functions-1"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emtorres1&repo=kraft-heinz-functions-1&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="kraft-heinz-functions" /></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emtorres1&repo=kraft-heinz-servicenow-webapi)](https://github.com/emtorres1/kraft-heinz-servicenow-webapi)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emtorres1&repo=kraft-heinz-functions-1)](https://github.com/emtorres1/kraft-heinz-functions-1)
 ## 🗂️ Where to find me
 
 <p><a href="https://github.com/em2websolution" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eduardomarquestorres/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
