@@ -3,7 +3,7 @@
 
   
 
-<img  align="right"  alt="GIF"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"  height="324" />
+<img  align="right"  alt="GIF"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"  height="334" />
 
 <p>Welcome to my page! </br> I'm <b>Eduardo</b>, Senior Fullstack Developer from <img  src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BR-Brazil-Flag-icon.png"  width="13"/> <b>São Paulo</b>, currently living in <b>Jacareí</b>. </p>
 
