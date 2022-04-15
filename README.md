@@ -8,7 +8,7 @@
 <p>I'm <b>Eduardo</b>, Senior Fullstack Developer from <img  src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BR-Brazil-Flag-icon.png"  width="13"/> <b>São Paulo</b>, currently living in <b>Jacareí</b>. </p>
 
   
-<br><br><br><br>
+<br><br><br>
 <h3>Skills</h3>
 <p>
 <img  alt="dotnet"  src="https://img.shields.io/badge/-,DotNet-007ACC?style=flat-square&logo=dotnet&logoColor=white" />
