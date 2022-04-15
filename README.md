@@ -68,46 +68,19 @@
   
 
 ## 💻 Work Stats
-
-  
-
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=emtorres1&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true"  alt="Anurag's github stats" width="100%" /></a></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=emtorres1&theme=highcontrast&hide_border=true" width="100%" /></a>
-
-
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=emtorres1&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true"  alt="Anurag's github stats" width="100%" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=emtorres1&theme=highcontrast&hide_border=true" width="100%" />
 
   **:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-
-
-
-<!--END_SECTION:activity-->
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=emtorres1&custom_title=Eduardo's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-291%20Thousand%20lines%20of%20code-blue)
-
+![activity graph](https://activity-graph.herokuapp.com/graph?username=emtorres1&custom_title=Eduardo's%20activity%20graph&theme=github-light&hide_border=true)]
 ## 🗂️ Where to find me
 
-  
-
-<p><a  href="https://github.com/em2websolution"  target="_blank"><img  alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a  href="https://www.linkedin.com/in/eduardomarquestorres/"  target="_blank"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a  href="https://www.instagram.com/2012live.oficial/"  target="_blank"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-%230077B.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <p><a  href="https://github.com/em2websolution"  target="_blank"><img  alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a  href="https://www.linkedin.com/in/eduardomarquestorres/"  target="_blank"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a  href="https://www.instagram.com/2012live.oficial/"  target="_blank"><img  alt="Instagram"  src="https://img.shields.io/badge/instagram-%230077B.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </p>
 
-  
-
 <h1  align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-  
-
+ 
 <p  align="center">
-
 <img  src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"  alt="Github Stats" />
-
 </p>
