@@ -71,9 +71,11 @@
 
   
 
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=emtorres1&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true"  alt="Anurag's github stats" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=emtorres1&theme=highcontrast&hide_border=true" width="350" /></a>
-<a  href="https://github.com/anuraghazra/github-readme-stats"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast&hide_border=true" /></a>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=emtorres1&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true"  alt="Eduardo's github stats" />
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=emtorres1&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true"  />
+
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtorres1&theme=highcontrast&hide_border=true" />
 
 
 
