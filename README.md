@@ -5,11 +5,11 @@
 
 <img  align="right"  alt="GIF"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"  height="334" />
 
-<p>Welcome to my page! </br> I'm <b>Eduardo</b>, Senior Fullstack Developer from <img  src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BR-Brazil-Flag-icon.png"  width="13"/> <b>São Paulo</b>, currently living in <b>Jacareí</b>. </p>
+<p>I'm <b>Eduardo</b>, Senior Fullstack Developer from <img  src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BR-Brazil-Flag-icon.png"  width="13"/> <b>São Paulo</b>, currently living in <b>Jacareí</b>. </p>
 
   
 
-<h3>I code in</h3>
+<h3>Skills</h3>
 <br><br><br>
 <p>
 <img  alt="dotnet"  src="https://img.shields.io/badge/-,DotNet-007ACC?style=flat-square&logo=dotnet&logoColor=white" />
